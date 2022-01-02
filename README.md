@@ -1,2 +1,2 @@
 # Web-scrapper
-BeautifulSoup web scrapper for the nature.com articles
+BeautifulSoup web scrapper practice project for the nature.com articles
